@@ -7,4 +7,5 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
 (1)	clone <URL>
-(4)	Branch + checkout PrimeraRama
+(4)	branch + checkout PrimeraRama
+(6)	branch + checkout SegundaRama
