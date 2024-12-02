@@ -6,3 +6,11 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(8)	push origin SegundaRama
+(9)	checkout master
+(17)	checkout PrimeraRama
+(18)	merge SegundaRama
+(19)	checkout master
+(20)	stash apply
+
+			     
