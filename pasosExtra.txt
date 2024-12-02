@@ -1,0 +1,6 @@
+(22)	push origin master
+(23)	checkout SegundaRama
+(24)	<añadir este fichero>
+
+NOTA: cuando realicé el push, me dio un error porque necesitaba hacer previamente un pull,y al hacer el pull, me cambió el apartado del nombre a "Sánchez Barreiro, Pablo".
+Después de esto ya si pude hacer el push (no cambié el nombre).

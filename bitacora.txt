@@ -12,5 +12,8 @@
 (18)	merge SegundaRama
 (19)	checkout master
 (20)	stash apply
+(26)	tag "PasosExtras"
+(27)	checkout master
+(28)	cherry-pick <hash>
 
 			     
