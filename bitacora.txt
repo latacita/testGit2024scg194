@@ -9,3 +9,8 @@
 (1)	clone <URL>
 (4)	branch + checkout PrimeraRama
 (6)	branch + checkout SegundaRama
+(14)				     La fusión será recursiva ya que ambas
+				     ramas tienen versiones que son propias de ellas
+
+(15)				     En este caso si va a ser fast-forward porque 				     master no tiene ninguna versión (tiene guardado el 				     stash pero no se ha hecho commit)
+(16)	checkout SegundaRama
